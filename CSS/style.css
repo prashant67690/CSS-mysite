@@ -47,7 +47,7 @@ p{
 .bottom-container{
   background-color: #66BFBF;
   color: #11999E;
-  padding: 100px;
+  padding: 100px 0 20px;
 }
 
 .pro{
@@ -76,7 +76,7 @@ text-decoration: underline;
   width:50%;
   margin:100px auto 200px auto;
   text-align: left;
-  line-height: 2;
+
 }
 .lang{
   float:left;
@@ -102,7 +102,7 @@ text-decoration: underline;
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
-  font-family: Arial;
+  font-family: 'Merriweather', serif;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
@@ -132,6 +132,9 @@ text-decoration: underline;
   font-family: 'Work Sans', sans-serif;
 
 }
+a:hover {
+  color: #EAF6F6;
+}
 
 hr{
   border-style: none;
@@ -139,4 +142,5 @@ hr{
   border-width: 10px;
   width:10%;
   border-color: grey;
+  margin:auto;
 }
