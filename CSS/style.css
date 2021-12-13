@@ -30,6 +30,9 @@ h2{
 {
   color: #11999E;
 }
+p{
+  line-height: 2;
+}
 .topcontainer{
   background-color: #E4F9F5;
   padding-top: 100px;
