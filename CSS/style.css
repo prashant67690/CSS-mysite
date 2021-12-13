@@ -129,3 +129,11 @@ text-decoration: underline;
   font-family: 'Work Sans', sans-serif;
 
 }
+
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 10px;
+  width:10%;
+  border-color: grey;
+}
